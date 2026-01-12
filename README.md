@@ -1,2 +1,2 @@
-# D-CodeSoft
+# CodeSoft
 CodeSoft tasks
